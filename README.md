@@ -1,2 +1,2 @@
 # helloworld
-www.beautifulmesses.org
+www.beautifulmesses.net
